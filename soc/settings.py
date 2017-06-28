@@ -145,13 +145,6 @@ INSTALLED_APPS = (
     'dajax',
     'website',
 )
-##EMAIL = (
-#    'HOST' : EMAIL_HOST ,
-#    'PORT' : EMAIL_PORT ,
-#    'USER' : EMAIL_HOST_USER ,
-#    'PWD' : EMAIL_HOST_PASSWORD ,
-#    'TLS' : EMAIL_USE_TLS ,
-#)
 
 # A sample logging configuration. The only tangible logging
 # performed by this configuration is to send an email to
