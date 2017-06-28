@@ -70,7 +70,7 @@ def codes(request, example_id):
 def change_ch(request, chapter_id):
 
    global ex_id
-    ex_id = 0	
+   ex_id = 0	
 
 @dajaxice_register
 def change_bk(request, book_id):
