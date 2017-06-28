@@ -1,0 +1,12 @@
+
+Hello {{ user }},
+
+
+Your feedback for this example :
+
+ {{ issue }}
+
+has been saved. we will shortly get back to you.
+
+Thank you
+Team Scilab_On_Cloud
